@@ -1,0 +1,7 @@
+{
+    "host":"dev.vk.edu.ee",
+    "port":"5432",
+    "dbname":"world_student",
+    "username":"t182732",
+    "password":"t182732"
+   }
